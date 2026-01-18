@@ -57,5 +57,5 @@ TypeScript · HTML5 · Git · REST API · Frontend · React · Figma · 풀스�
 
 
 ## 🔗 Socials
-- GitHub: https://github.com/USERNAME
+- GitHub: https://github.com/Rafged
 
