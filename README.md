@@ -1,4 +1,4 @@
-## 👋 안녕하세요, JavaScript 프론트엔드 개발자입니다
+## 👋 안녕하세요, JavaScript 프론트엔드 개발자 최명성입니다.
 
 저는 **JavaScript Frontend Developer**로  
 웹 애플리케이션의 UI와 사용자 경험을 중심으로 개발하고 있습니다.
