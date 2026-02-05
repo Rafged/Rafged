@@ -6,8 +6,8 @@
 ---
 
 ## 🛠️ Skills
-JavaScript · ReactJS · Node.js · CSS3 · API · DOM · Axios  
-TypeScript · HTML5 · Git · REST API · Frontend · React · Figma · 풀스택
+JavaScript · ReactJS · CSS3 · API · DOM · Axios  
+TypeScript · HTML5 · Git · REST API · Frontend · React · Figma 
 
 ---
 
