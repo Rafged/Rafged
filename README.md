@@ -6,7 +6,7 @@
 ---
 
 ## 🛠️ Skills
-JavaScript · ReactJS · CSS3 · API · DOM · Axios  
+JavaScript · ReactJS · Node.js · CSS3 · API · DOM · Axios  
 TypeScript · HTML5 · Git · REST API · Frontend · React · Figma 
 
 ---
@@ -25,6 +25,10 @@ TypeScript · HTML5 · Git · REST API · Frontend · React · Figma
   <a href="https://react.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
   </a>
+
+  <a href="https://nodejs.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+</a>
 
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
