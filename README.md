@@ -17,6 +17,8 @@ TypeScript · HTML5 · Git · REST API · Frontend · React · Figma
 
 ## 🛠️ Tech Stack
 
+### 💻 Frontend
+
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
@@ -26,12 +28,16 @@ TypeScript · HTML5 · Git · REST API · Frontend · React · Figma
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
   </a>
 
-  <a href="https://nodejs.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-</a>
-
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+  </a>
+
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/>
+  </a>
+
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -41,13 +47,29 @@ TypeScript · HTML5 · Git · REST API · Frontend · React · Figma
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
   </a>
+</p>
 
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+### 🔗 API & State Management
+
+<p align="left">
+  <a href="https://axios-http.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" width="45"/>
   </a>
 
-  <a href="https://axios-http.com/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/32372333?s=200&v=4" width="45"/>
+  <a href="https://tanstack.com/query/latest" target="_blank">
+    <img src="https://cdn.simpleicons.org/reactquery/FF4154" width="45"/>
+  </a>
+
+  <a href="https://zustand.docs.pmnd.rs/" target="_blank">
+    <img src="https://cdn.simpleicons.org/zustand" width="45"/>
+  </a>
+</p>
+
+### 🛠️ Tools
+
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
   </a>
 
   <a href="https://www.figma.com/" target="_blank">
