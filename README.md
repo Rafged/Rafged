@@ -52,12 +52,16 @@ TypeScript · HTML5 · Git · REST API · Frontend · React · Figma
 ### 🔗 API & State Management
 
 <p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  </a>
+
   <a href="https://axios-http.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" width="45"/>
   </a>
 
-  <a href="https://redux.js.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45"/>
+  <a href="https://react.dev/reference/react" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
   </a>
 </p>
 
