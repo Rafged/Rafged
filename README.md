@@ -105,11 +105,15 @@ TypeScript · HTML5 · Git · REST API · Frontend · React · Figma
 
 <p align="left">
   <a href="https://cursor.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cursor/cursor-original.svg" width="45"/>
+    <img src="https://cdn.simpleicons.org/cursor/ffffff" width="45" alt="Cursor"/>
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Cloud_computing" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" alt="Cloud"/>
   </a>
 </p>
 
-**Cursor · Cloud Vibe Coding**
+`Cursor` · `Cloud Vibe Coding`
 
 
 ## 🔗 Socials
