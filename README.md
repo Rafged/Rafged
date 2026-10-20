@@ -56,28 +56,16 @@ TypeScript · HTML5 · Git · REST API · Frontend · React · Figma
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" width="45"/>
   </a>
 
-  <a href="https://tanstack.com/query/latest" target="_blank">
-    <img src="https://cdn.simpleicons.org/reactquery/FF4154" width="45"/>
-  </a>
-
-  <a href="https://zustand.docs.pmnd.rs/" target="_blank">
-    <img src="https://cdn.simpleicons.org/zustand" width="45"/>
+  <a href="https://redux.js.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45"/>
   </a>
 </p>
 
-### 🚀 SaaS Development
+### 🚀 Backend & SaaS Development
 
 <p align="left">
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/>
-  </a>
-
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-  </a>
-
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
   </a>
 
   <a href="https://www.postgresql.org/" target="_blank">
@@ -94,6 +82,10 @@ TypeScript · HTML5 · Git · REST API · Frontend · React · Figma
 <p align="left">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  </a>
+
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
   </a>
 
   <a href="https://www.figma.com/" target="_blank">
