@@ -108,12 +108,12 @@ TypeScript · HTML5 · Git · REST API · Frontend · React · Figma
     <img src="https://cdn.simpleicons.org/cursor/ffffff" width="45" alt="Cursor"/>
   </a>
 
-  <a href="https://en.wikipedia.org/wiki/Cloud_computing" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" alt="Cloud"/>
+  <a href="https://claude.ai/" target="_blank">
+    <img src="https://cdn.simpleicons.org/claude/ffffff" width="45" alt="Claude"/>
   </a>
 </p>
 
-`Cursor` · `Cloud Vibe Coding`
+`Cursor` · `Claude`
 
 
 ## 🔗 Socials
