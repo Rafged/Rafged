@@ -95,7 +95,21 @@ TypeScript · HTML5 · Git · REST API · Frontend · React · Figma
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
   </a>
+
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+  </a>
 </p>
+
+### 📚 Currently Learning
+
+<p align="left">
+  <a href="https://cursor.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cursor/cursor-original.svg" width="45"/>
+  </a>
+</p>
+
+**Cursor · Cloud Vibe Coding**
 
 
 ## 🔗 Socials
