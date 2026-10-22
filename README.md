@@ -113,7 +113,8 @@ TypeScript · HTML5 · Git · REST API · Frontend · React · Figma
   </a>
 </p>
 
-`Cursor` · `Claude`
+🤖 AI Coding Tools
+Cursor · Claude
 
 
 ## 🔗 Socials
